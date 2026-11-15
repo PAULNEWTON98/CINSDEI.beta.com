@@ -1,0 +1,13 @@
+.FONDO {
+    BACKGROUND-IMAGE: url('C:\Users\emman\OneDrive\Desktop\CINSDEI\IMAGEN\MAIN.jpg');
+    HEIGHT: 100%;
+    WIDTH: 100%;
+    BACKGROUND-REPEAT: NO-REPEAT;
+    BACKGROUND-SIZE: COVER;
+    BACKGROUND-POSITION: CENTER;
+}
+.shadowtext {
+    font-size: 17rem;
+    color:black
+    text-shadow unset 0.1em 0.1em 0.2em #000; 
+}
